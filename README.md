@@ -5,11 +5,11 @@ con fastapi el cual es minimalista pero potente y promete mayor rapidez que el r
 
 ## Instalación
 * Clone el proyecto
-* Muevase dentro del directorio
+* Muevase dentro del directorio\n
 ``` cd fastapi-crud ```
 
-* Para instalar las dependencias ejecute dentro se su virtual env
+* Para instalar las dependencias ejecute dentro se su virtual env\n
 ```pip install -r requirements.txt```
 
-Para ejecutarlo ejecute:
+* Para ejecutarlo ejecute:\n
 ```uvicorn app:app --reload```
